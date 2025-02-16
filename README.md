@@ -7,8 +7,8 @@ I'm passionate about **Web Development, AI/ML, and DSA**. Currently, I'm learnin
 - AI & ML using Python 🤖
 
 ### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/shreevatsatg)
-- [GitHub](https://www.linkedin.com/in/shreevatsa-t-g-7b6509314)
+- [LinkedIn](https://www.linkedin.com/in/shreevatsa-t-g-7b6509314/)
+- [GitHub](https://github.com/Shreevatsatg)
 - [Portfolio](https://https://shreevatsatg-com.vercel.app/) 
 
 🔭 I'm also working on building my **portfolio blog** from scratch!
